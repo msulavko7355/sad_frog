@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.net.URL;
 
 import javax.imageio.ImageIO;
-//ayy lmaoo
+
 public class Hero {
 
 	BufferedImage sprite;
